@@ -1,0 +1,15 @@
+{
+    "name": "gui_g/mvc-crud",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Souza",
+            "email": "ghostgui60@gmail.com"
+        }
+    ],
+    "require": {}
+}
